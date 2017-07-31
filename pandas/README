@@ -1,0 +1,9 @@
+Lecture notes: https://github.com/UiO-INF3331/student-resources-16/blob/master/lectures/11_pandas/Pandas.ipynb
+
+
+Pandas is a tool for loading, modifying, analyzing and visualizing data. The lecture covers pretty much everything you need. In this directory I will try to
+add to the lecture.
+
+
+Content:
+- Handling missing values: https://pandas.pydata.org/pandas-docs/stable/missing_data.html
